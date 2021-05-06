@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Alien_ElderThing_Race_Standard"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Alien_ElderThing_Race_Standard"]/alienRace/raceRestriction/onlyUseRaceRestrictedWeapons</xpath>
+          <value>
+            <onlyUseRaceRestrictedWeapons>false</onlyUseRaceRestrictedWeapons>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Alien_ElderThing_Race_Standard"]/race/lifeExpectancy</xpath>
+          <value>
+            <lifeExpectancy>27500</lifeExpectancy>
+          </value>
+        </li>
+        <li Class="PatchOperationRemove">
+          <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Alien_ElderThing_Race_Standard"]/alienRace/raceRestriction/weaponList</xpath>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

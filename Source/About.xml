@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Call of Cthulhu - Elder Things Tweak</name>
+  <author>Cruril Stormrunner</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <url>...</url>
+  <description>Allows Elder Thing race to use other weapons besides Elder Thing Laser Gun. Increases lifespan by 10-fold.</description>
+</ModMetaData>
