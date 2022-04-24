@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Call of Cthulhu - Elder Things Tweak (Continued)</name>
   <packageId>Mlie.CallofCthulhuElderThingsTweak</packageId>
@@ -21,13 +21,13 @@
   <loadAfter>
     <li>Mlie.CallofCthulhuElderThings</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Cruril Stormrunners mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1679102896
 
 - Replaced the overwrite with patches instead
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -36,12 +36,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1679102896
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 Allows Elder Thing race to use other weapons besides Elder Thing Laser Gun. Increases lifespan by 10-fold.
 
 Credit to Jecrell for the original mod, my mod is just a tweak off of theirs!
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.

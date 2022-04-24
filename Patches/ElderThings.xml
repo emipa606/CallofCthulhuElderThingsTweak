@@ -16,6 +16,12 @@
             <lifeExpectancy>27500</lifeExpectancy>
           </value>
         </li>
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="ElderThing_LaserGun"]/statBases/Mass</xpath>
+          <value>
+            <Mass>30</Mass>
+          </value>
+        </li>
         <li Class="PatchOperationRemove">
           <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Alien_ElderThing_Race_Standard"]/alienRace/raceRestriction/weaponList</xpath>
         </li>

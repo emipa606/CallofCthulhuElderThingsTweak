@@ -1,22 +1,22 @@
 # CallofCthulhuElderThingsTweak
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Cruril Stormrunners mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1679102896
 
 - Replaced the overwrite with patches instead
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Allows Elder Thing race to use other weapons besides Elder Thing Laser Gun. Increases lifespan by 10-fold.
 
 Credit to Jecrell for the original mod, my mod is just a tweak off of theirs!
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
